@@ -1,2 +1,2 @@
 # SkillBot
-Project website: https://lenhattu.com/research/skillbot/
+Paper: [https://arxiv.org/abs/2102.03382](https://arxiv.org/abs/2102.03382)
